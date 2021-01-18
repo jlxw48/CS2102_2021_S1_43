@@ -1,4 +1,4 @@
-# CS2102 Project
+# CS2102 Project: PetCare
 
 ### About
 A Web application which simulates a pet-care service. Pet Owners can look for CareTakers to look after their pets when they are not available!
